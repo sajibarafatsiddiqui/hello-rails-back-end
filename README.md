@@ -85,7 +85,7 @@ npm install
 To run the project, execute the following command:
 ```sh
   cd hello-rails-backend-app
-  rails s
+  rails s -p 4000
 ```
 ### Run tests
 
