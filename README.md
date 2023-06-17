@@ -27,8 +27,8 @@
 <a href="https://github.com/sajibarafatsiddiqui/hello-react-front-end.git">hello-react-front-end </a>" 
 
 ## 🛠 Built With <a name="built-with"></a>
- >React
- >Redux-toolkit
+ >Rails
+ >Postgresql
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
